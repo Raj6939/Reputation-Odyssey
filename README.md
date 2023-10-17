@@ -1,6 +1,6 @@
 ![Blue Pink Gradient Fashion Banner(4)](https://github.com/Raj6939/Reputation-Odyssey/assets/67961128/ed82adce-19b4-491e-82b5-98f42197cc55)
 
-# Reputation-Odyssey
+# Reputation-Odyssey.
 The Ultimate Game Reputation Backpack for Players. This innovative tool allows players to import and utilize their game reputation in any supported game seamlessly. Reputation-Odyssey showcases the power of Self-Sovereign Identity (SSI) with Hypersign SSI SDK, providing a secure and decentralized solution.
 
 Both Games are live here
